@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LAYAN-ALJADDUA
-- 👀 I’m interested in Cyber security, Java
 - 🌱 I’m currently learning Cyber security
-- 💞️ I’m looking to collaborate on STC
 - 📫 How to reach me at layanaljdua@gmail.com
 
 <!---
